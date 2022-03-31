@@ -4,7 +4,7 @@
 
     if ($nota >6 ){
         //comandos para verdadeiro
-        echo "AEEEEE CARALHOOOOW PASSOU";
+        echo "AEEEEE PASSOU";
     }
 
     else{
@@ -15,7 +15,7 @@
         }
 
         else{
-            echo "vou te dar só uma chancezinha de recuperação meu nobre, caso contrario tu vai dormir com os peixes";
+            echo "vou te dar só uma chancezinha de recuperação, meu nobre";
 
         }
     }
